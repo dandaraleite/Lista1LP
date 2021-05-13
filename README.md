@@ -1,2 +1,3 @@
-# Lista1LP
-Lista de treinamento de código com estruturas básicas.
+# Lista_pratica
+Estudo de criação de algoritmos com estruturas básicas (sequenciais, condicionais e repetitivas)
+Disciplina: Lógica de Programação
